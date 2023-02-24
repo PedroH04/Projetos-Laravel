@@ -126,6 +126,7 @@
             height: 45vh;
             justify-content: space-around;
             align-items: center;
+            color: red;
         }
         
         
